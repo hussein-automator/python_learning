@@ -7,6 +7,9 @@ for num in numbers:
         
 print(f"Multiple of 3 or 5 = {total}")
 """
+
+# A program to check the odd square numbers in 787000, sum it and return the total 
+
 square_total = 0
 numbers = range(1, 787000)
 
